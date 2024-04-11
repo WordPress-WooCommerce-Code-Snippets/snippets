@@ -8,7 +8,27 @@ Here are some code snippets that alter or bring extra functionality to WooCommer
 
 1.[Cart & Checkout Merge](#checkout-cart-merge)
 
+2.[Remove Billing Fields if Cart Contains Virtual Products](#remove-billing-cart-has-virtual-products)
+
+
+
+
+</br>
+
 ## [Cart & Checkout Merge](#checkout-cart-merge)
 
+<details>
+  <summary>Click me</summary>
 
+</details>
+
+## [Remove Billing Fields if Cart Contains Virtual Products](#remove-billing-cart-has-virtual-products)
+
+<details>
+  <summary>Click me</summary>
+
+  ```
+
+
+</details>
 
