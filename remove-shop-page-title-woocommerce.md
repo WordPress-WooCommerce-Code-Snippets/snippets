@@ -32,4 +32,3 @@ If you'd prefer to hide the title using CSS rather than PHP, you could add this 
 
 This method is non-intrusive and doesn’t require modifying the `functions.php` file but is less flexible than the PHP solution.
 
-Let me know if you need further customization!
