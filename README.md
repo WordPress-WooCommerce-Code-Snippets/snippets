@@ -16,9 +16,10 @@ Here are some code snippets that alter or bring extra functionality to WooCommer
 
 ## [Add Fixed Price and Percentage to All WooCommerce Products](#add-fixed-price-percentage-all-woocommerce-products)
 
-  
-##  <summary>[Add Fixed Price and Percentage to All WooCommerce Products](#add-fixed-price-percentage-all-woocommerce-products)</summary>
 <details>
+
+  
+  <summary>Click Me</summary>
 
   ```
 
